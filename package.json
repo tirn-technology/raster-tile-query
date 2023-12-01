@@ -11,10 +11,10 @@
     "map",
     "raster tiles"
   ],
-  "url": "https://github.com/mapbox/raster-tile-query.git",
+  "url": "https://github.com/tirn-technology/raster-tile-query.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapbox/raster-tile-query.git"
+    "url": "https://github.com/tirn-technology/raster-tile-query.git"
   },
   "author": {
     "name": "Mapbox",
